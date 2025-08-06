@@ -27,17 +27,20 @@ It is:
 
 ## 🚧 Status
 
-- absolute beginning
+- 🧱 Repo structure initialized
+- 🧠 Concept and architecture sketched
+- ⌨️ Early code and notebooks being prototyped
+- 🚧 Memory strength scoring system next
 
 ---
 
 ## 📂 Planned Structure
 
-/theory/ ← Core concepts & architecture
-/experments/ ← Prototypes, test cases,
-/src/ ← Actual implementation code (modules)
-/notes/ ← Loose thoughts, logs, brainstorms
-/data/ ← Mock or sample data (small, cleaned)
+- /theory/ ← Core concepts & architecture
+- /experiments/ ← Prototypes, test cases,
+- /src/ ← Actual implementation code (modules)
+- /notes/ ← Loose thoughts, logs, brainstorms
+- /data/ ← Mock or sample data (small, cleaned)
 
 ---
 
