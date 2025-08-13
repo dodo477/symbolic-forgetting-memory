@@ -1,8 +1,6 @@
 # Architecture Overview
 
 ## Flow
-[Ingress] -> [Active Store] -> (policy) ->[Compressor] -> [Archive Store(s)]
-
 |Ingress|->|Active Store|->|Policy|->|Compressor|->|Archive Store(s)|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | | |↑| | | |↓|
