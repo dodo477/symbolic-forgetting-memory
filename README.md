@@ -1,4 +1,4 @@
-# Symbolic Forgetting Memory (Working Title)
+[[README]]# Symbolic Forgetting Memory
 
 This is a personal side project exploring a cognitive architecture idea for AI systems:  
 **"What if forgetting wasn't deletion, but symbolic compression?"**
