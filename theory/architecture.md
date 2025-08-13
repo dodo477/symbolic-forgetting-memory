@@ -1,10 +1,10 @@
 # Architecture Overview
 
 ## Flow
-|Ingress|->|Active Store|->|Policy|->|Compressor|->|Archive Store(s)|
+|Ingress|→|Active Store|→|Policy|→|Compressor|→|Archive Store(s)|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | | |↑| | | |↓|
-|     |     |     |     |Retriever||<-||Cues/context|
+|     |     |     |     |Retriever||←||Cues/context|
 
 
 
